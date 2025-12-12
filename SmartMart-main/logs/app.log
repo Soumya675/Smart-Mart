@@ -227,3 +227,4 @@
 2025-12-12 13:51:39 INFO  TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
 2025-12-12 13:51:39 INFO  SpringappApplication - Started SpringappApplication in 8.375 seconds (process running for 9.633)
 2025-12-12 13:51:39 INFO  SpringappApplication - Application started successfully!
+2025-12-12 14:53:42 WARN  HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m2s673ms745µs100ns).
